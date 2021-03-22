@@ -1,0 +1,6 @@
+# Created by Kenney (www.kenney.nl)
+
+newmtl metalDark(Clone)
+Kd 1 0.9719122 0.4181818
+map_Kd Textures/metalDark(Clone).png
+
